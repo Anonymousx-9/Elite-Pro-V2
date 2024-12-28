@@ -10,7 +10,7 @@ global.location = "Port Harcourt, Nigeria" //ur location
 //new
 global.botname = 'Anonymous' //ur bot name
 global.ownernumber = '2349128625816' //ur owner number
-global.ownername = 'ELITE-PRO-V2' //ur owner name
+global.ownername = 'Anonymous' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
 global.themeemoji = '👨🏼‍💻'
